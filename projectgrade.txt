@@ -1,0 +1,26 @@
+Part 1 implementation score (25 max): 
+25
+Part 1 implementation comments: 
+
+Part 2 implementation score (15 max): 
+15
+Part 2 implementation comments: 
+
+Javadocs score (10 max): 
+8
+Javadocs scomments: 
+-2 inconsistent and scratch code
+Play method comments score (10 max): 
+8
+Play method comments: 
+-2 comments lacking
+Part 1 modularity score (25 max): 
+25
+Part 1 modularity comments: 
+
+Part 2 modularity score (15 max): 
+15
+Part 2 modularity comments: 
+
+Total score (100 max): 
+96

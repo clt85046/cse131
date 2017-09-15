@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="book"/>
+	<classpathentry kind="src" path="labs"/>
+	<classpathentry kind="src" path="studios"/>
+	<classpathentry kind="src" path="exercises"/>
+	<classpathentry kind="src" path="coursesupport"/>
+	<classpathentry kind="src" path="labsupport"/>
+	<classpathentry kind="src" path="extensions"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/AAProperties-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="jars/biojava3-ws-3.0.3.jar"/>
+	<classpathentry kind="lib" path="jars/miglayout15-swing.jar" sourcepath="jars/miglayout-src.zip"/>
+	<classpathentry kind="lib" path="jars/commons-math-2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="jars/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="jars/javacsv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
